@@ -31,7 +31,7 @@ function App() {
           <form className='bg-light rounded'>
             <h3 className="text-center mt-3 " style={{ color: 'black' }}>Join a chat</h3>
             <div className="form-group mb-2">
-              <label for="exampleInputEmail1">Username</label>
+              <label for="exampleInputEmail1">Name</label>
               <input
                 type="text"
                 className="form-control mt-3"
